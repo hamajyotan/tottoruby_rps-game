@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/hamajyotan/tottoruby_rps.git
+  revision: 191e19daf89a42c0f8596fccba0bc151c91ffa91
+  specs:
+    tottoruby_rps (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  tottoruby_rps!
+
+BUNDLED WITH
+   2.5.6
